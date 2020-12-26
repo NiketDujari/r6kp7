@@ -1,0 +1,82 @@
+body{
+  background-color:black;
+  color:white;
+
+}
+
+.top-bar{
+  text-align:center;
+}
+
+.topbarhr1{
+  border-style:dotted none none;
+  color:white;
+  width: 40%;
+  height:1px;
+  border-width:10px;
+  margin:0;
+  position: absolute;
+  left: 0;
+  top: 50px;
+}
+.topbarhr2{
+  border-style:dotted none none;
+  color:white;
+  width: 40%;
+  position: absolute;
+  right: 0;
+  top: 50px;
+  height:1px;
+  border-width:10px;
+  margin:0;
+}
+.r6-icon{
+  position: relative;
+  text-align:center;
+  margin: 0;
+height: 100px;
+}
+.r6pros{
+  font-family: 'Audiowide', cursive;
+  color:white;
+}
+.title{
+  text-align: center;
+}
+.kp7{
+  font-family: 'Yellowtail', cursive;
+}
+.whoare{
+  text-align: center;
+  width: 100%;
+  position: relative;
+  height: 200px;
+  margin: 0 auto 0 auto ;
+}
+.whoareheading{
+  font-weight: 900;
+  font-family: 'Audiowide', cursive;
+  color:red;
+}
+
+.whoaregif1{
+  width: 300px;
+  height:200px;
+  position: absolute;
+  left: 0;
+}
+.whoaregif2{
+  width: 300px;
+  height:200px;
+  position: absolute;
+  right: 0;
+}
+.marquee{
+  color:black;
+}
+.lineup{
+  width: 70%;
+  text-align: center;
+  position:relative;
+  margin: 0 auto 0 auto;
+}
